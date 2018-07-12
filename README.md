@@ -1,3 +1,2 @@
-# hw2
-hw2
-112233
+# Random quote machine
+
